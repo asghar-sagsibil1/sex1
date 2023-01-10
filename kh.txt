@@ -1,0 +1,6 @@
+nextcord
+discord
+discord.py
+random
+colorama
+asyncio
